@@ -1,0 +1,16 @@
+.mynav{
+
+background-color: rgb(224, 185, 191);
+
+}
+.full{
+    margin-top: 30px;
+}
+.myfooter{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100vw;
+    color:seashell;
+    background-color: rosybrown;
+}
